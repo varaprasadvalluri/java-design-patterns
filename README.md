@@ -1,4 +1,6 @@
-
+**//Creational Patterns:** Focus on the creation of objects.
+**//Structural Patterns:** Define relationships between objects.
+**//Behavioral Patterns:** Describe how objects interact.
 
  **1.** **Creational Patterns**   
 
